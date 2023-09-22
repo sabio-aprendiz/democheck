@@ -1,0 +1,26 @@
+greeting	 hi hi. hello how are you ? hey . hows it going good morning good evening good afternoon howdy greetings
+conversation-continue	 ok wow great oh is it ? oh ohh Thats great Good Really hmm lemme think . hm hmmm hmmmmm hmmmm hmm huh
+price-inquiry	 How much is the cost ? What's the price ? What's the cost ? How much is price? How much it costs ? price cost money how much. how much?
+product-inquiry	 What is this product ? What's the product ? What be the product ? What does this product do ? What is name of product ? What this product is all about? Can you tell me something about this product ? What are the product features ? Tell me feature of product. What do you have? What do you sell? sell what
+conversation-complete	 Thanks done that's all thats it. thats it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it. Bye bye goodbye Goodbye exit Exit end End
+abuse-block	 Fuck Shit Cunt Cretin Twat fuck shit cunt twat
+other-product-inquiry	Is else ? anything else ? Is that all ? Other other else Else
+aesthetic-of-product	 Is your product pretty ? Is it pretty ?
+purpose-of-product	 Why should I buy it ? What good does it do me ? Why why
+faq-change-mode Can I change the mode of premium payment?
+faq-payment-modes How can I pay my premiums?
+faq-payment-collection Can the premium payment get collected from my house by a Max Life Insurance executive?
+faq-reminder Do I get a reminder for my premium payments?
+faq-saving-plan Tell me about saving
+faq-term-plan Tell me about term plan
+faq-nominee-change How can I make a nomination or address change?
+faq-policy-loan Can I take a policy loan?
+faq-lapsed-policy How can I revive a policy after 180 days?
+faq-rider-update Can I update rider
+faq-rider-detail Details about rider? what are the available rider?
+faq-service-on-mobile Can I get service over mobile
+faq-life-cover-amount-decision  How do I decide on the amount of life insurance I need?
+faq-life-payment-miss-scenario  What if I don't pay my premium on time?
+faq-insurace-stop-impact I won’t be able to claim tax benefits if I stop paying premiums on my life insurance or pension policies, right
+faq-different-types-plan What are Different Types of Life Insurance Plans from Max Life Insurance? want to buy a policy. suggest a policy. what plans you sell?
+provide_lead_information I want to buy a policy. Can you help me with buying of policy. buy policy for me. buy policy purchase policy. buy insurance
